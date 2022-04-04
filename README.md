@@ -1,4 +1,6 @@
-# foundations-0-github
+# My first README file
+
+I copied this template for practice. 
 
 **Lesson content**: [Introduction to GitHub](https://github.com/learn-static/foundations-github/blob/main/intro-github.md)
 
